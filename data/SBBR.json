@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-16T13:24:52.051835+00:00",
+  "updated_at": "2026-07-16T16:10:24.426266+00:00",
   "data_referencia": "2026-07-16",
   "airport_icao": "SBBR",
   "airport_name": "Brasilia",
   "airport_info": {
-    "sg_aerodromo_icao": "SBBR",
-    "sg_aerodromo_iata": "BSB",
-    "descricao": "PRESIDENTE JUSCELINO KUBITSCHEK - BRASÍLIA - DF - BRASIL"
+    "sg_aerodromo_icao": "SBGL",
+    "sg_aerodromo_iata": "GIG",
+    "descricao": "AEROPORTO INTERNACIONAL DO RIO DE JANEIRO/GALEÃO – ANTONIO CARLOS JOBIM - RIO DE JANEIRO - RJ - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
